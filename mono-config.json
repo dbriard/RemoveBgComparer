@@ -77,11 +77,91 @@
     },
     {
       "behavior": "assembly",
+      "name": "Microsoft.Extensions.Configuration.CommandLine.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.Extensions.Configuration.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.Extensions.Configuration.EnvironmentVariables.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.Extensions.Configuration.FileExtensions.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.Extensions.Configuration.Json.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.Extensions.Configuration.UserSecrets.dll"
+    },
+    {
+      "behavior": "assembly",
       "name": "Microsoft.Extensions.DependencyInjection.Abstractions.dll"
     },
     {
       "behavior": "assembly",
+      "name": "Microsoft.Extensions.DependencyInjection.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.Extensions.FileProviders.Abstractions.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.Extensions.FileProviders.Physical.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.Extensions.FileSystemGlobbing.dll"
+    },
+    {
+      "behavior": "assembly",
       "name": "Microsoft.Extensions.Hosting.Abstractions.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.Extensions.Hosting.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.Extensions.Logging.Abstractions.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.Extensions.Logging.Configuration.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.Extensions.Logging.Debug.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.Extensions.Logging.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.Extensions.Logging.EventLog.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.Extensions.Logging.EventSource.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.Extensions.Options.ConfigurationExtensions.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.Extensions.Options.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.Extensions.Primitives.dll"
     },
     {
       "behavior": "assembly",
@@ -133,11 +213,19 @@
     },
     {
       "behavior": "assembly",
-      "name": "System.Diagnostics.Process.dll"
+      "name": "System.Diagnostics.DiagnosticSource.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Diagnostics.EventLog.dll"
     },
     {
       "behavior": "assembly",
       "name": "System.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.IO.FileSystem.Watcher.dll"
     },
     {
       "behavior": "assembly",
@@ -146,6 +234,10 @@
     {
       "behavior": "assembly",
       "name": "System.Linq.Expressions.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Memory.dll"
     },
     {
       "behavior": "assembly",
@@ -173,7 +265,7 @@
     },
     {
       "behavior": "assembly",
-      "name": "System.Runtime.Numerics.dll"
+      "name": "System.Security.Cryptography.dll"
     },
     {
       "behavior": "assembly",
