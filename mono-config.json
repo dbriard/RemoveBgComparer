@@ -109,6 +109,14 @@
     },
     {
       "behavior": "assembly",
+      "name": "Microsoft.Extensions.Diagnostics.Abstractions.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.Extensions.Diagnostics.dll"
+    },
+    {
+      "behavior": "assembly",
       "name": "Microsoft.Extensions.FileProviders.Abstractions.dll"
     },
     {
@@ -169,6 +177,10 @@
     },
     {
       "behavior": "assembly",
+      "name": "MUI.Controls.RichTextBox.dll"
+    },
+    {
+      "behavior": "assembly",
       "name": "MUI.Themes.InPixio.dll"
     },
     {
@@ -221,7 +233,15 @@
     },
     {
       "behavior": "assembly",
+      "name": "System.Diagnostics.Process.dll"
+    },
+    {
+      "behavior": "assembly",
       "name": "System.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.IO.Compression.dll"
     },
     {
       "behavior": "assembly",
@@ -274,6 +294,10 @@
     {
       "behavior": "assembly",
       "name": "System.Text.RegularExpressions.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Topten.RichTextKit.dll"
     },
     {
       "culture": "fr",
